@@ -115,6 +115,12 @@ iframe {
 	float: left;
 	width: 32%;
 }
+.col-1 {
+	margin-top: 20px;
+}
+section.wrapper.col-1 {
+    margin-top: 0px;
+}
 
 .col-2 {
 	float:left;
@@ -277,6 +283,7 @@ iframe {
 
 	section {
 		padding: 20px;
+		margin-bottom: 20px;
 		background: white;
 	}
 
